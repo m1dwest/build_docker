@@ -8,6 +8,7 @@ RUN pacman -Syu --noconfirm \
         wget \
         qt5 \
         git \
+        openssh \
         cmake \
         python-pip \
         ninja \
